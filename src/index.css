@@ -1,0 +1,28 @@
+html, body{
+    background-color: #21232A;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    font-size: 1.3rem;
+    padding: 70px;
+}
+
+button{
+    font-size: 1.3rem;
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    min-width: 80px;
+    border: none;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.btn-plus{
+    background-color: aquamarine;
+}
+
+.btn-sub{
+    background-color: tomato;
+}
