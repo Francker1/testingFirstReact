@@ -7,10 +7,10 @@ const PrimeraApp = ( { nombre, edad, despedida, defol } ) => {
 
     return (
         <>
-            <h1>Hola Mundo</h1>
+            <h1>Hola Mundo!!</h1>
             <p>Mi nombre es { nombre }</p>
             <p>Tengo { edad || "X" } años</p>
-            <p>{ despedida }</p>
+            <h3>{ despedida }</h3>
             <p>{ defol }</p>
         </>
     );
